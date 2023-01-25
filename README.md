@@ -1,2 +1,2 @@
 # tools-cli
-Command line tools like BAT and SH files
+Command line tools including BAT and SH files
